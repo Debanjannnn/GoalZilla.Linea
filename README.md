@@ -1,13 +1,13 @@
-# GoalZilla 🚀🐲  
+# GoalZilla 🚀🐉  
 
-Welcome to **GoalZilla** — the ultimate milestone-based crowdfunding platform on **EDU Chain**! 🎯 Whether you're funding creative projects, community initiatives, or bold ideas, GoalZilla ensures **transparency, accountability, and efficiency** with the power of **EDU Chain technology**. Let’s bring your goals to life! 🎉  
+Welcome to **GoalZilla** — the ultimate milestone-based crowdfunding platform on **Linea Chain**! 🎯 Whether you're funding creative projects, community initiatives, or bold ideas, GoalZilla ensures **transparency, accountability, and efficiency** with the power of **Linea Chain technology**. Let’s bring your goals to life! 🎉  
 
 ---  
 
-## 🏆 Why Choose GoalZilla on EDU?  
+## 🏆 Why Choose GoalZilla on Linea?  
 
 💰 **Milestone-Based Funding**: Funds are released in phases, ensuring accountability at every step.  
-🔒 **EDU Security**: Enjoy fast, feeless transactions and robust security features with EDU Chain.  
+🔒 **Linea Security**: Enjoy fast, feeless transactions and robust security features with Linea Chain.  
 👥 **Community-Powered Decisions**: Transparent voting mechanisms ensure fairness and trust.  
 📈 **Reputation Growth**: Build credibility for future campaigns and long-term success.  
 
@@ -33,19 +33,19 @@ Welcome to **GoalZilla** — the ultimate milestone-based crowdfunding platform 
 
 ## 🚀 Get Started  
 
-1. **Discover Projects**: Explore innovative campaigns built on Telos.  
+1. **Discover Projects**: Explore innovative campaigns built on Linea.  
 2. **Launch Your Campaign**: Set your goals and milestones to begin fundraising.  
 3. **Engage the Community**: Gather feedback, showcase progress, and celebrate achievements.  
   
 ---  
-**contract details**: https://edu-chain-testnet.blockscout.com/address/0xb5513e201516ab33ed52c918501980ab875b63d4
+**Contract details**: https://sepolia.lineascan.build/address/0x6a7839647081f661024b65793d9ffaec035f0895  
 ---  
 
 ## 🛠️ How to Use  
 
 1. **Clone the Repository**:  
    ```bash  
-   git clone https://github.com/manovHacksaw/GoalZilla.git  
+   git clone https://github.com/Debanjannnn/GoalZilla.Linea
    ```  
 2. **Navigate to the Project Directory**:  
    ```bash  
@@ -62,11 +62,11 @@ Welcome to **GoalZilla** — the ultimate milestone-based crowdfunding platform 
 5. **Open in Browser**:  
    Navigate to `http://localhost:3000` to explore GoalZilla.  
 6. **Deploy**: Follow the deployment instructions in the repository to go live.  
-7. **Smart Contract on EDU Chain Testnet**: [View on Teloscan](https://testnet.teloscan.io/address/0x7144Da8697ec83F9f820460C6498DcA90fF20901)  
+7. **Smart Contract on Linea Chain**: [View on Lineascan](https://sepolia.lineascan.build/address/0x6a7839647081f661024b65793d9ffaec035f0895)  
 
 ---  
 
 ## 🌟 Join the GoalZilla Movement  
 
-Let’s shape the future of crowdfunding with **EDU Chain**! Whether you’re a creator with a vision or a donor looking to make an impact, GoalZilla provides the tools to make it happen. 🐲💫
+Let’s shape the future of crowdfunding with **Linea Chain**! Whether you’re a creator with a vision or a donor looking to make an impact, GoalZilla provides the tools to make it happen. 🐉💫
 
