@@ -3,7 +3,8 @@
 Welcome to **GoalZilla** — the ultimate milestone-based crowdfunding platform on **Linea Chain**! 🎯 Whether you're funding creative projects, community initiatives, or bold ideas, GoalZilla ensures **transparency, accountability, and efficiency** with the power of **Linea Chain technology**. Let’s bring your goals to life! 🎉  
 
 ---  
-
+Contract address : https://sepolia.lineascan.build/address/0x6a7839647081f661024b65793d9ffaec035f0895
+---
 ## 🏆 Why Choose GoalZilla on Linea?  
 
 💰 **Milestone-Based Funding**: Funds are released in phases, ensuring accountability at every step.  
