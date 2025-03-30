@@ -1,12 +1,12 @@
 import abi from "@/web3/artifacts/contracts/GoalZilla.sol/GoalZilla.json"
 
-export const contractAddress = "0xb5513E201516Ab33ED52c918501980ab875B63D4";
+export const contractAddress = "0x6A7839647081F661024b65793d9FfaEC035F0895";
 export const chainIdHex = "0xa045c"
-export const rpcUrl = "https://open-campus-codex-sepolia.drpc.org"
-export const blockScannerUrl = "https://edu-chain-testnet.blockscout.com/"
+export const rpcUrl = "https://linea-sepolia.drpc.org"
+export const blockScannerUrl = "https://sepolia.lineascan.build/"
 export const currency = {
-    name: "EDU Chain Testnet",
-    symbol: "EDU"
+    name: "Linea Sepolia",
+    symbol: "LineaETH"
 }
 export const contractABI = abi.abi;
 

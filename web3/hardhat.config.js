@@ -29,6 +29,11 @@ module.exports = {
       chainId: 656476,
                // Set custom gas limit
     },
+    lineaSepoliaTestnet: {
+      url: "https://linea-sepolia.drpc.org",
+      accounts: [`0x56d62a972cce51fa23d31e87782feec46f727d92aea13ec32a23e157458c983f`],
+      chainId: 59141,
+    },
     localhost: {
       url: "http://127.0.0.1:8545", // Local testing with Hardhat/Ganache
       chainId: 31337,
